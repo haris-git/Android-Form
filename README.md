@@ -2,7 +2,7 @@
 
 Example of a functional app that uses two activities for future reference. In the first activity there is a simple form where the user can enter some information and two buttons, a **Cancel** button that erases everything and a **Next** button that opens the next activity. The second activity prints a "hello" message and the information that the user had entered in the previous screen **(the app passes data from one activity to another)**. 
 
-The format of the app is the same in landscape and portrait mode. 
+The format of the app is the same in landscape and portrait mode. Also the user can scroll up and down the screen.
 
 You can see how the app looks like after opening the preview.png
 
