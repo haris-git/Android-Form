@@ -4,7 +4,7 @@ Example of a functional app that uses two activities for future reference. In th
 
 The format of the app is the same in landscape and portrait mode. Also the user can scroll up and down the screen.
 
-You can see how the app looks like after opening the preview.png
+You can see how the app looks like after opening the preview_activity1.png and the preview_activity2.png
 
 ### Which files of the project are important
 
